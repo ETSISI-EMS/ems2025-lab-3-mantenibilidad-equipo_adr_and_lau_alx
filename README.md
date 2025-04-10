@@ -1,4 +1,4 @@
-:point_right: PUT YOUR CI BADGE HERE
+[![Build](https://github.com/ETSISI-EMS/ems2025-lab-3-mantenibilidad-equipo_adr_and_lau_alx/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2025-lab-3-mantenibilidad-equipo_adr_and_lau_alx/actions/workflows/main.yml)
 
 # EMS-lab3 Maintainability
 push
